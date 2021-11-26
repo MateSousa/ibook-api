@@ -5,7 +5,7 @@
   "description": "Fake api for Ibook Project",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "dev": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.16.2",
